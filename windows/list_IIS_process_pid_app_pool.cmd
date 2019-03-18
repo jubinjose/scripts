@@ -1,6 +1,6 @@
 echo off
 set output=Done!
-pushd
+pushd .
 cd c:\windows\system32\inetsrv\
 
 rem start  - Check if Admin access
