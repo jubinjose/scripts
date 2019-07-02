@@ -1,0 +1,2 @@
+curl --request GET https://postman-echo.com/get?name=jubin
+curl --request POST https://postman-echo.com/post?name=jubin
